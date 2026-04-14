@@ -24,7 +24,7 @@ checksums =   ['fcf73a9efc65527a210b993e8889d41ebf05977eef1f6a65ebac3188152cd496
 toolchain = {'name': 'cpeCray', 'version': '25.03'}
 
 builddependencies = [
-    ('buildtools-python', '24.03', f'-cray-python3.11', SYSTEM)
+    ('buildtools-python', '25.03', f'-cray-python3.11', SYSTEM)
 ]
 
 dependencies = [
