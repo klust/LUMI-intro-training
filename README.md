@@ -13,10 +13,10 @@ If you have an active project on LUMI, you may be able to make some or all of th
 exercises depending on the resources that have been allocated to you (as some need
 CPU billing units while others need GPU billing units). To this end:
 
-1.  Clone the repository. This process will create the subdirectory LUMI-1day-training
+1.  Clone the repository. This process will create the subdirectory `LUMI-intro-training`
     in the directory where you execute the git command:
     ```
-    git clone https://github.com/Lumi-supercomputer/LUMI-1day-training.git
+    git clone https://github.com/Lumi-supercomputer/LUMI-intro-training.git
     cd LUMI-intro-training
     ```
 
@@ -27,7 +27,7 @@ CPU billing units while others need GPU billing units). To this end:
     ```
     git tag
     ```
-    Choose the tag that seems to correspond to the date the training was given.
+    Choose the tag that corresponds to the date the training was given.
 
 4.  Checkout the tag to get the exercises as they were on that training day. E.g., for a training
     given on 10 December 2024, the tag would be 20230328 and you can use:
